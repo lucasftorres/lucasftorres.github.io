@@ -23,30 +23,29 @@ const conteudo =
                 "<ul>"+
                 "<li><a href='#'>Microsoft Power BI</a>"+
                 "<ul>"+
-                "<li><a href='#'>Food Good</a></li>"+
-                "<li><a href='#'>Global AI Salaries</a></li>"+
-                "<li><a href='#'>Olist</a></li>"+
-                "<li><a href='#'>Waze</a></li>"+
-                "<li><a href='#'>Projeto 5</a></li>"+
+                "<li><a href='/pages-projects/bi/powerbi/foodgood/foodgood.html'>Food Good</a></li>"+
+                "<li><a href='/pages-projects/bi/powerbi/global_AI_Salaries/globalAISalaries.html'>Global AI Salaries</a></li>"+
+                "<li><a href='/pages-projects/bi/powerbi/olist/olist.html'>Olist</a></li>"+
+                "<li><a href='/pages-projects/bi/powerbi/waze/waze.html'>Waze</a></li>"+
                 "</ul>"+
                 " </li>"+
                 "<li><a href='#'>Tableau</a>"+
                 "<ul>"+
                 "<li><a href='/pages-projects/bi/tableau/covid19/covid19.html'>Covid 19</a></li>"+
-                "<li><a href='/pages-projects/bi/tableau/house_sales/house-sales.html'>Washington House Sales</a></li>"+
+                "<li><a href='/pages-projects/bi/tableau/house_sales/house_sales.html'>Washington House Sales</a></li>"+
                 "</ul>"+
                 "</li>"+
                 "<li><a href='#'>Looker Studio</a>"+
                 "<ul>"+
-                "<li><a href='#'>Projeto 1</a></li>"+
-                "<li><a href='#'>Projeto 2</a></li>"+
+                "<li><a href='/pages-projects/bi/looker/amazon/amazon.html'>Amazon</a></li>"+
+                "<li><a href='/pages-projects/bi/looker/popular_market/popularMarket.html'>Popular Market</a></li>"+
                 "</ul>"+
                 "</li>"+
                 "<li>"+
                 "<a href='#'>Microsoft Excel</a>"+
                 "<ul>"+
-                "<li><a href='#'>Bike Sales</a></li>"+
-                "<li><a href='#'>Coffee</a></li>"+
+                "<li><a href='/pages-projects/bi/excel_projects/bikesales/bikeSales.html'>Bike Sales</a></li>"+
+                "<li><a href='/pages-projects/bi/excel_projects/coffee/coffee.html'>Coffee</a></li>"+
                 "</ul>"+
                 "</li>"+
                 "</ul>"+

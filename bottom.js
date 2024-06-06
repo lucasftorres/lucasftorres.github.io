@@ -18,61 +18,41 @@ const content =
 "<div class='col-4 col-6-medium col-12-small'>"+
 "<section>"+
 									"<header>"+
-                                    "<h2>Tempus consequat</h2>"+
+                                    "<h2>Adicionados recentemente</h2>"+
 									"</header>"+
 									"<ul class='divided'>"+
-                                    "<li><a href='#'>Lorem ipsum dolor sit amet sit veroeros</a></li>"+
-                                    "<li><a href='#'>Sed et blandit consequat sed tlorem blandit</a></li>"+
-                                    "<li><a href='#'>Adipiscing feugiat phasellus sed tempus</a></li>"+
-                                    "<li><a href='#'>Hendrerit tortor vitae mattis tempor sapien</a></li>"+
-									"<li><a href='#'>Sem feugiat sapien id suscipit magna felis nec</a></li>"+
-                                    "<li><a href='#'>Elit class aptent taciti sociosqu ad litora</a></li>"+
+                                    "<li><a href='#'>Projeto 1</a></li>"+
+                                    "<li><a href='#'>Projeto 2</a></li>"+
+                                    "<li><a href='#'>Projeto 3</a></li>"+
+                                    "<li><a href='#'>Projeto 4</a></li>"+
+									"<li><a href='#'>Projeto 5</a></li>"+
+                                    "<li><a href='#'>Projeto 6</a></li>"+
 									"</ul>"+
                                     "</section>"+
                                     "</div>"+
                                     "<div class='col-4 col-6-medium col-12-small'>"+
                                     "<section>"+
-									"<header>"+
-                                    "<h2>Ipsum et phasellus</h2>"+
-									"</header>"+
-									"<ul class='divided'>"+
-                                    "<li><a href='#'>Lorem ipsum dolor sit amet sit veroeros</a></li>"+
-                                    "<li><a href='#'>Sed et blandit consequat sed tlorem blandit</a></li>"+
-                                    "<li><a href='#'>Adipiscing feugiat phasellus sed tempus</a></li>"+
-                                    "<li><a href='#'>Hendrerit tortor vitae mattis tempor sapien</a></li>"+
-                                    "<li><a href='#'>Sem feugiat sapien id suscipit magna felis nec</a></li>"+
-                                    "<li><a href='#'>Elit class aptent taciti sociosqu ad litora</a></li>"+
-									"</ul>"+
                                     "</section>"+
                                     "</div>"+
                                     "<div class='col-4 col-12-medium'>"+
                                     "<section>"+
 									"<header>"+
-                                    "<h2>Vitae tempor lorem</h2>"+
+                                    "<h2>Contato</h2>"+
 									"</header>"+
 									"<ul class='social'>"+
-                                    "<li><a class='icon brands fa-facebook-f' href='#'><span class='label'>Facebook</span></a></li>"+
-                                    "<li><a class='icon brands fa-twitter' href='#'><span class='label'>Twitter</span></a></li>"+
-                                    "<li><a class='icon brands fa-dribbble' href='#'><span class='label'>Dribbble</span></a></li>"+
-                                    "<li><a class='icon brands fa-tumblr' href='#'><span class='label'>Tumblr</span></a></li>"+
-                                    "<li><a class='icon brands fa-linkedin-in' href='#'><span class='label'>LinkedIn</span></a></li>"+
+                                    "<li><a class='icon brands linkedin fa-linkedin-in' href='https://www.linkedin.com/in/lucastorresf'><span class='label'>LinkedIn</span></a></li>"+
+                                    "<li><a class='icon brands github fa-github' href='https://github.com/lucasftorres'><span class='label'>GitHub</span></a></li>"+
 									"</ul>"+
 									"<ul class='contact'>"+
                                     "<li>"+
-                                    "<h3>Address</h3>"+
+                                    "<h3>Endereço</h3>"+
                                     "<p>"+
-                                    "Untitled Incorporated<br />"+
-                                    "1234 Somewhere Road Suite<br />"+
-                                    "Nashville, TN 00000-0000"+
+                                    "Recife, Pernambuco, Brasil<br />"+
                                     "</p>"+
                                     "</li>"+
                                     "<li>"+
-                                    "<h3>Mail</h3>"+
-                                    "<p><a href='#'>someone@untitled.tld</a></p>"+
-                                    "</li>"+
-                                    "<li>"+
-                                    "<h3>Phone</h3>"+
-                                    "<p>(800) 000-0000</p>"+
+                                    "<h3>e-mail</h3>"+
+                                    "<p><a href='#'>lucaas.torresf192@gmail.com</a></p>"+
                                     "</li>"+
 									"</ul>"+
                                     "</section>"+
@@ -81,7 +61,7 @@ const content =
                                     "<!-- Copyright -->"+
 									"<div id='copyright'>"+
                                     "<ul class='links'>"+
-                                    "<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href='http://html5up.net'>HTML5 UP</a></li>"+
+                                    "<li>Design: <a href='http://html5up.net'>HTML5 UP</a></li>"+
                                     "</ul>"+
 									"</div>"+
                                     "</div>"+
