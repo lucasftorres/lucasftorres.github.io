@@ -13,7 +13,7 @@ const conteudo =
 
 "<section id='header'>"+
 
-        "<h1><a href='/index.html'>Portfólio de Projetos</a></h1>"+
+        "<h1><a href='/index.html'>Portfolio - Lucas Torres</a></h1>"+
 
        "<nav id='nav'>"+
             "<ul>"+
@@ -112,9 +112,13 @@ const conteudo =
                 "</li>"+
                 "</ul>"+
                 "</li>"+
-                "<li><a href='/page-about.html'>Sobre</a></li>"+
+                "<li><a href='/page-about.html'>About</a></li>"+
                 "</ul>"+
                 "</nav>"+
+                "<nav>"+
+			    "<ul>"+
+			    "</ul>"+
+		        "</nav>"+
                 "</section>"
 
 topo.innerHTML += conteudo

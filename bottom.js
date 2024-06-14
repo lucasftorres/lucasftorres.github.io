@@ -18,7 +18,7 @@ const content =
 "<div class='col-4 col-6-medium col-12-small'>"+
 "<section>"+
 									"<header>"+
-                                    "<h2>Adicionados recentemente</h2>"+
+                                    "<h2>Recently</h2>"+
 									"</header>"+
 									"<ul class='divided'>"+
                                     "<li><a href='#'>Projeto 1</a></li>"+
@@ -37,7 +37,7 @@ const content =
                                     "<div class='col-4 col-12-medium'>"+
                                     "<section>"+
 									"<header>"+
-                                    "<h2>Contato</h2>"+
+                                    "<h2>Contact</h2>"+
 									"</header>"+
 									"<ul class='social'>"+
                                     "<li><a class='icon brands linkedin fa-linkedin-in' href='https://www.linkedin.com/in/lucastorresf'><span class='label'>LinkedIn</span></a></li>"+
@@ -45,7 +45,7 @@ const content =
 									"</ul>"+
 									"<ul class='contact'>"+
                                     "<li>"+
-                                    "<h3>Endereço</h3>"+
+                                    "<h3>Address</h3>"+
                                     "<p>"+
                                     "Recife, Pernambuco, Brasil<br />"+
                                     "</p>"+
@@ -56,14 +56,6 @@ const content =
                                     "</li>"+
 									"</ul>"+
                                     "</section>"+
-                                    "</div>"+
-                                    "<div class='col-12'>"+
-                                    "<!-- Copyright -->"+
-									"<div id='copyright'>"+
-                                    "<ul class='links'>"+
-                                    "<li>Design: <a href='http://html5up.net'>HTML5 UP</a></li>"+
-                                    "</ul>"+
-									"</div>"+
                                     "</div>"+
                                     "</div>"+
                                     "</div>"+
