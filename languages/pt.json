@@ -21,5 +21,33 @@
     "dataviz-title": "Visualização de Dados",
     "dataviz-content": "Tenho conhecimento sobre como escolher o tipo correto de gráfico para representar diferentes tipos de dados, bem como sobre como aplicar formatação, cores e rótulos para tornar as visualizações mais compreensíveis e atraentes por meio do storytelling utilizando Power BI, Tableu, Looker Studio.",
     "side-bar-main-projects": "Pricipais Projetos",
-    "button-see": "Ver projeto"
+    "button-see": "Ver projeto",
+    "objective-definition": "Definição do objetivo",
+    "collect-extract": "Coleta e Extração de Dados",
+    "choice-tools": "Escolha de Ferramentas",
+    "techniques": "Aplicação das técnicas de análise",
+    "results": "Entrega dos resultados",
+
+    "amz-index": "Análise Descritiva sobre os preço, desconto e avaliação dos produtos vendidos na da divisão Indiana da Amazon, aplicando estatística buscando correlação entre as variáveis.",
+    "amz-obj": "Iremos analisar um conjunto de dados públicos disponibilizado no Kaggle sobre dados de vendas da filial Indiana da Amazon.",
+    "amz-tech-1": "Limpeza e Pré-processamento",
+    "amz-tech-2": "Análise Exploratória",
+    "amz-tech-3": "Análise Descritiva",
+    "amz-results-1": "Utilizamos alguns Cartões para Visualizarmos Total de Produtos, Média Geral de Avaliação, Maior Quantidade de Avaliações em um único produto e Total Geral de Avaliações.",
+    "amz-results-2": "Através Gráfico de Barras Horizontal para entendermos a distribuição dos produtos por categoria.",
+    "amz-results-3": "Destacamos por meio do Gráfico de Pizza as 3 Categorias de Produtos com Mais Avaliações.",
+    "amz-results-4": "Avaliamos a Quantidade Média de Avaliações dos Produtos divididos por Categorias.",
+    "amz-results-5": "Nesta Página destacamos alguns indicadores:",
+    "amz-results-6": "Maior Valor Absoluto de Desconto",
+    "amz-results-7": "Produto de Menor Valor - Mini USB Type C Adapter Plug",
+    "amz-results-8": "Maior Desconto Percentual Aplicado",
+    "amz-results-9": "Produto de Maior Valor - Sony (65 inches) 4K Smart LED TV",
+    "amz-results-10": "Utilizamos gráficos de barras para analisarmos as Médias de Desconto Absoluto e Percentual por Categoria e Produto.",
+    "amz-results-11": "Segmentamos por Faixa os Produtos por Preço, Desconto e Avaliação.",
+    "amz-results-12": "Podemos visualizar no gráfico de dispersão que há uma correlação levemente positiva entre o Total de Avaliações e a Avaliação os produtos analisados.",
+    "amz-results-13": "Podemos visualizar no gráfico de dispersão que há uma correlação levemente positiva entre o Preço Final dos produtos com desconto e a Avaliações dos produtos analisados.",
+    "amz-results-14": "Podemos visualizar no gráfico de dispersão que há uma correlação levemente negativa entre a Porcentagem de Desconto do produtos e a Avaliações dos produtos analisados.",
+    "amz-results-15": "Página utilizada para reportar possíveis atualizações do Dashboard."
+
+
 }

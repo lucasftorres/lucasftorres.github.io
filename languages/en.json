@@ -23,5 +23,33 @@
     "dataviz-title": "DataViz",
     "dataviz-content": "I have knowledge of how to choose the correct type of chart to represent different types of data, as well as how to apply formatting, colors and labels to make visualizations more understandable and attractive through storytelling using Power BI, Tableu, Looker Studio.",
     "side-bar-main-projects": "Main Projects",
-    "button-see": "See project"
+    "button-see": "See project",
+    "objective-definition": "Objective definition",
+    "collect-extract": "Data Collection and Extraction",
+    "choice-tools": "Choice of Tools",
+    "techniques": "Application of analysis techniques",
+    "results": "Delivery of results",
+
+    "amz-index": "Descriptive analysis on prices, discounts and evaluation of products sold in the Indian division of the Amazon, applying statistics seeking to observe variations.",
+    "amz-obj": "We will analyze a public dataset available on Kaggle on sales data from Amazon's Indian branch.",
+    "amz-tech-1": "Cleaning and Pre-processing",
+    "amz-tech-2": "Exploratory Data Analysis",
+    "amz-tech-3": "Descriptive Analysis",
+    "amz-results-1": "We use some Cards to View Total Products, Overall Average Rating, Largest Number of Reviews on a single product and Overall Total Ratings.",
+    "amz-results-2": "Using a Horizontal Bar Chart to understand the distribution of products by category.",
+    "amz-results-3": "We highlight the 3 Product Categories with the Most Reviews using the Pie Chart.",
+    "amz-results-4": "We evaluate the Average Number of Product Reviews divided by Categories.",
+    "amz-results-5": "On this page we highlight some indicators:",
+    "amz-results-6": "Highest Absolute Discount Value",
+    "amz-results-7": "Lowest Value Product - Mini USB Type C Adapter Plug",
+    "amz-results-8": "Higher Percentage Discount Applied",
+    "amz-results-9": "Higher Percentage Discount Applied",
+    "amz-results-10": "We use bar graphs to analyze the Absolute and Percentage Discount Averages by Category and Product.",
+    "amz-results-11": "We segment products by range by price, discount and evaluation.",
+    "amz-results-12": "We can see in the scatter plot that there is a slightly positive correlation between the Total Ratings and the Rating of the analyzed products.",
+    "amz-results-13": "We can see in the scatter plot that there is a slightly positive correlation between the Final Price of discounted products and the Ratings of the analyzed products.",
+    "amz-results-14": "We can see in the scatter plot that there is a slightly negative correlation between the Product Discount Percentage and the Reviews of the analyzed products.",
+    "amz-results-15": "Page used to report possible Dashboard updates."
+
+
 }

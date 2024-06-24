@@ -296,6 +296,9 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+	.img-print-project {
+		width: 90%;
+	}
 /* Container */
 
 	.container {
