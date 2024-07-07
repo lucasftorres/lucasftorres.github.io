@@ -27,6 +27,8 @@
     "choice-tools": "Escolha de Ferramentas",
     "techniques": "Aplicação das técnicas de análise",
     "results": "Entrega dos resultados",
+    "tools": "Ferramentas utilizadas",
+    "related-projects": "Projetos Relacionados",
 
     "amz-index": "Análise Descritiva sobre os preço, desconto e avaliação dos produtos vendidos na da divisão Indiana da Amazon, aplicando estatística buscando correlação entre as variáveis.",
     "amz-obj": "Iremos analisar um conjunto de dados públicos disponibilizado no Kaggle sobre dados de vendas da filial Indiana da Amazon.",
@@ -47,7 +49,26 @@
     "amz-results-12": "Podemos visualizar no gráfico de dispersão que há uma correlação levemente positiva entre o Total de Avaliações e a Avaliação os produtos analisados.",
     "amz-results-13": "Podemos visualizar no gráfico de dispersão que há uma correlação levemente positiva entre o Preço Final dos produtos com desconto e a Avaliações dos produtos analisados.",
     "amz-results-14": "Podemos visualizar no gráfico de dispersão que há uma correlação levemente negativa entre a Porcentagem de Desconto do produtos e a Avaliações dos produtos analisados.",
-    "amz-results-15": "Página utilizada para reportar possíveis atualizações do Dashboard."
+    "amz-results-15": "Página utilizada para reportar possíveis atualizações do Dashboard.",
 
-
+    "data-index": "EDA utilizando Pandas e Seaborn para analisar dados sobre os salários dos profissionais da área dados de nível global.",
+    "data-obj": "Iremos analisar um conjunto de dados públicos disponibilizado no Kaggle sobre os Salários dos profissionais da Área de Dados.",
+    "data-tech-1": "Limpeza e Pré-processamento",
+    "data-tech-2": "Análise Exploratória",
+    "data-tech-3": "Análise Descritiva",
+    "data-results-1": "Na página principal evidenciamos a média de salarial total, assim como valores máximos, mínimos e quantidade de profissões diferentes.",
+    "data-results-2": "A partir da utilização do filtro retrátil podemos segmentar os dados de acordo com nível de experiência e por categoria.",
+    "data-results-3": "Nesta página utilizando uma tabela listamos todas as profissões descritas na pesquisa.",
+    "data-results-4": "Utilizando gráficos de barras horizontais segmentamos a quantidade de profissionais de acordo com a modalidade de trabalho e o tamanho da companhia que estão associados.",
+    "data-results-5": "Na última página o objetivo foi mostrar a distribuição global.",
+    "data-results-6": "Podemos utilizar o filtro para segmentar por Continent, País, Residência do Empregado e Local da Companhia.",
+    "data-results-7": "Conseguimos também visualizar a quantidade de cada profissional de acordo com experiência e sua média salarial.",
+    "data-results-8": "",
+    "data-results-9": "",
+    "data-results-10": "",
+    "data-results-11": "",
+    "data-results-12": "",
+    "data-results-13": "",
+    "data-results-14": "",
+    "data-results-15": ""
 }

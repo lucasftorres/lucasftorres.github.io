@@ -2896,6 +2896,7 @@ input, select, textarea {
 
 			.box {
 				padding: 25px 15px 20px 15px;
+				text-align: justify;
 			}
 
 				.box .image.featured {
@@ -2917,6 +2918,10 @@ input, select, textarea {
 				.box.post header > p {
 					margin-top: 0;
 					font-size: 1em;
+				}
+				
+				.box.post img {
+					align-items: center;
 				}
 
 		/* Divided */

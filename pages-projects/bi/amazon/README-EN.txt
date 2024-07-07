@@ -24,7 +24,7 @@ Application of analysis techniques
 
     Cleaning and Pre-processing
 
-    Exploratory Data Analysis
+    Exploratory Analysis
 
     Descriptive Analysis
 

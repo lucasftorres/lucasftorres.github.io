@@ -29,7 +29,10 @@
     "choice-tools": "Choice of Tools",
     "techniques": "Application of analysis techniques",
     "results": "Delivery of results",
+    "tools": "Tools",
+    "related-projects": "Related Projects",
 
+    "data-index": "EDA using Pandas and Seaborn to analyze data on the salaries of professionals in the field at a global level.",
     "amz-index": "Descriptive analysis on prices, discounts and evaluation of products sold in the Indian division of the Amazon, applying statistics seeking to observe variations.",
     "amz-obj": "We will analyze a public dataset available on Kaggle on sales data from Amazon's Indian branch.",
     "amz-tech-1": "Cleaning and Pre-processing",
@@ -49,7 +52,25 @@
     "amz-results-12": "We can see in the scatter plot that there is a slightly positive correlation between the Total Ratings and the Rating of the analyzed products.",
     "amz-results-13": "We can see in the scatter plot that there is a slightly positive correlation between the Final Price of discounted products and the Ratings of the analyzed products.",
     "amz-results-14": "We can see in the scatter plot that there is a slightly negative correlation between the Product Discount Percentage and the Reviews of the analyzed products.",
-    "amz-results-15": "Page used to report possible Dashboard updates."
+    "amz-results-15": "Page used to report possible Dashboard updates.",
 
-
+    "data-obj": "We will analyze a set of public data available on Kaggle about the Salaries of Data Area professionals.",
+    "data-tech-1": "Cleaning and Pre-processing",
+    "data-tech-2": "Exploratory Data Analysis",
+    "data-tech-3": "Descriptive Analysis",
+    "data-results-1": "On the main page we highlight the average total salary, as well as maximum, minimum values ​​and number of different professions.",
+    "data-results-2": "Using the retractable filter, we can segment the data according to experience level and category.",
+    "data-results-3": "On this page, using a table, we list all the professions described in the research.",
+    "data-results-4": "Using horizontal bar graphs, we segment the number of professionals according to the type of work and the size of the company they are associated with.",
+    "data-results-5": "On the last page the objective was to show the global distribution.",
+    "data-results-6": "We can use the filter to segment by Continent, Country, Employee Residence and Company Location.",
+    "data-results-7": "We were also able to visualize the number of each professional according to experience and their average salary.",
+    "data-results-8": "",
+    "data-results-9": "",
+    "data-results-10": "",
+    "data-results-11": "",
+    "data-results-12": "",
+    "data-results-13": "",
+    "data-results-14": "",
+    "data-results-15": ""
 }
