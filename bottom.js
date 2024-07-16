@@ -21,12 +21,9 @@ const content =
                                     "<h2>Recently</h2>"+
 									"</header>"+
 									"<ul class='divided'>"+
-                                    "<li><a href='#'>Projeto 1</a></li>"+
-                                    "<li><a href='#'>Projeto 2</a></li>"+
-                                    "<li><a href='#'>Projeto 3</a></li>"+
-                                    "<li><a href='#'>Projeto 4</a></li>"+
-									"<li><a href='#'>Projeto 5</a></li>"+
-                                    "<li><a href='#'>Projeto 6</a></li>"+
+                                    "<li><a href='/pages-projects/data-analysis/olist/olist.html'>Data Warehouse Olist</a></li>"+
+                                    "<li><a href='/pages-projects/bi/global_AI_salaries/globalAISalaries.html'>Data Professional Salaries - 2024</a></li>"+
+                                    "<li><a href='/pages-projects/bi/amazon/amazon.html'>Amazon India Sales</a></li>"+
 									"</ul>"+
                                     "</section>"+
                                     "</div>"+
