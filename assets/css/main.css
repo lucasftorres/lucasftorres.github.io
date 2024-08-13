@@ -2872,7 +2872,7 @@ row		table tr {
 
 			.box {
 				padding: 25px 15px 20px 15px;
-				text-align: justify;
+				/* text-align: justify; */
 			}
 
 				.box .image.featured {
@@ -3008,7 +3008,9 @@ row		table tr {
 		/* Main */
 
 			#main {
-				padding: 20px 0;	
+				padding: 0;
+				margin: 0;
+				display: flex;
 			}
 
 			#main .row {
@@ -3016,11 +3018,16 @@ row		table tr {
 			}
 
 			#main .row .col-8{
+				width: auto
+			}
+			#main .row .col-4{
 				width: auto;
+				margin-right: 1.5em;
 			}
 
 			.box.post{
-				padding: 1.5em;
+				/* padding: 1.5em; */
+				margin: auto;
 			}
 
 			.box.post h3{

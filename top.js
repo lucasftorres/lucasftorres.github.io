@@ -28,6 +28,7 @@ const conteudo =
                 "</li>"+
                 "<li><a href='/page-da.html'>Data Analysis</a>"+
                 "<ul>"+
+                "<li><a href='/pages-projects/data-analysis/foodgood/foodgood'>Data Warehouse Food-Good with SSIS and SQL Server</a></li>"+
                 "<li><a href='/pages-projects/data-analysis/olist/olist.html'>Data Warehouse Olist-Ecommerce with SQL Server and Power BI</a></li>"+
                 "</ul>"+
                 "<li><a href='#'>Data Science</a>"+
