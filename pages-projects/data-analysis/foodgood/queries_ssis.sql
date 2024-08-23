@@ -68,11 +68,11 @@ LEFT JOIN [Relational_foodgood].[dbo].[orders] AS o
 
 CREATE TABLE [dbo].[dim_payments] (
 	[nk_payment_id]									INT NOT NULL,
-	[nk_payment_order_id]							INT NOT NULL,
+	[nk_order_id]									INT NOT NULL,
+	[nm_payment_status]								NVARCHAR(50) NULL,
 	[nr_payment_amount]								NVARCHAR(50) NULL,
 	[nr_payment_fee]								NVARCHAR(50) NULL,
 	[nm_payment_method]								NVARCHAR(50) NULL,
-	[nm_payment_status]								NVARCHAR(50) NULL,
 	[nr_order_delivery_cost]						NVARCHAR(50) NULL
 )
 
@@ -95,7 +95,7 @@ LEFT JOIN [Relational_foodgood].[dbo].[drivers] AS drv
 
 CREATE TABLE [dbo].[dim_deliveries] (
 	[nk_delivery_id]								INT NOT NULL,
-	[nk_delivery_order_id]     						INT NOT NULL,
+	[nk_order_id]     								INT NOT NULL,
 	[nk_driver_id]									INT NULL,
 	[nm_driver_modal]								NVARCHAR(50) NULL,
 	[nm_driver_type]								NVARCHAR(50) NULL,
@@ -128,5 +128,11 @@ CREATE TABLE [dbo].[fact_orders]
 	[nk_store_id]     								INT NULL,
 	[nk_channel_id]     							INT NULL,
 	[nk_order_moment_created]     					DATETIME NULL,
-	[nk_order_moment_finished]     					DATETIME NULL
+	[nr_order_moment_created_hour]					INT NULL,
+	[nr_order_moment_created_day]					INT NULL,
+	[nr_order_moment_created_weekday]				INT NULL,
+	[nr_order_moment_created_month]					INT NULL,
+	[nk_order_moment_finished]     					DATETIME NULL,
+	[nr_time_delivery]								INT NULL
+
 )
